@@ -1,3 +1,6 @@
+# To install all needed libraries, run in your console:
+# pip install -r requirements.txt
+
 #import section
 import speech_recognition as sr
 from gtts import gTTS
